@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyCross5x3</string>
+    <color name="red">#FF0000</color>
+    <color name="blue">#0000FF</color>
+    <string name="button_description"></string>
+    <string name="drawn_game">Drawn Game...</string>
+    <string name="your_wins">Your Wins!</string>
+    <string name="your_loss">Your Loss!</string>
+    <string name="red_wins">Red Wins!</string>
+    <string name="blue_wins">Blue Wins!</string>
+    <string name="your_turn">your Turn</string>
+    <string name="push_game">Push for new game...</string>
+</resources>
